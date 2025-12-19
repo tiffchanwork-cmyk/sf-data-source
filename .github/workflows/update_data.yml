@@ -1,0 +1,38 @@
+name: Update SF Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # 每週日午夜自動執行
+  workflow_dispatch: # 允許手動點擊按鈕執行
+
+permissions:
+  contents: write # 允許腳本寫入並更新檔案
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+          # 如果你有用其他庫，請在這裡加一行 pip install xxx
+
+      - name: Run Scraper
+        run: python sf_scraper.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add sf-stores.json sf-lockers.json
+          # 下面這行是檢查如果有變動才提交，避免沒變動時報錯
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update SF data" && git push)
