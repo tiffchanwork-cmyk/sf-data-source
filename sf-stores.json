@@ -1,0 +1,712 @@
+[
+  {
+    "code": "852M",
+    "address": "上環文樂商廈順豐站",
+    "district": "上環"
+  },
+  {
+    "code": "852MD",
+    "address": "香港香港島中西區上環新街市街15-27號，干諾道西8-14號嘉安大廈地下15號舖 ^852MD^",
+    "district": "上環"
+  },
+  {
+    "code": "852MB",
+    "address": "中環勝基中心順豐站",
+    "district": "中環"
+  },
+  {
+    "code": "852MA",
+    "address": "西營盤兆祥坊順豐站",
+    "district": "西營盤"
+  },
+  {
+    "code": "852Z502",
+    "address": "西環恒裕大廈順豐站",
+    "district": "堅尼地城"
+  },
+  {
+    "code": "852Z501",
+    "address": "香港香港島中西區西環卑路乍街1L-1Q號曉暉大廈地下1號 ^852Z501^",
+    "district": "堅尼地城"
+  },
+  {
+    "code": "852P",
+    "address": "炮台山海城洋樓順豐站",
+    "district": "炮台山"
+  },
+  {
+    "code": "852PB",
+    "address": "柴灣益高工廈順豐站",
+    "district": "柴灣"
+  },
+  {
+    "code": "852PCL",
+    "address": "香港香港島東區柴灣祥利街29號國貿中心5樓1室 ^852PCL^",
+    "district": "柴灣"
+  },
+  {
+    "code": "852PC",
+    "address": "筲箕灣新高聲工廈順豐站",
+    "district": "筲箕灣"
+  },
+  {
+    "code": "852PAL",
+    "address": "香港香港島東區筲箕灣南康街17號天悅筲箕灣廣場1樓1142及1143號舖 ^852PAL^",
+    "district": "筲箕灣"
+  },
+  {
+    "code": "852Z552",
+    "address": "小西灣富景花園順豐站",
+    "district": "小西灣"
+  },
+  {
+    "code": "852PD",
+    "address": "北角錦屏街順豐站",
+    "district": "北角"
+  },
+  {
+    "code": "852PDL",
+    "address": "香港香港島東區北角英皇道255號國都廣場2樓202及203號舖 ^852PDL^",
+    "district": "北角"
+  },
+  {
+    "code": "852NPTM",
+    "address": "香港香港島東區北角英皇道480號豐富商場地下8號舖 ^852NPTM^",
+    "district": "北角"
+  },
+  {
+    "code": "852PGL",
+    "address": "西灣河興民街順豐站",
+    "district": "西灣河"
+  },
+  {
+    "code": "852T",
+    "address": "灣仔文石大廈順豐站",
+    "district": "灣仔"
+  },
+  {
+    "code": "852TA",
+    "address": "香港香港島灣仔區灣仔聯發街9, 11-13號莊士敦大樓地下D舖 ^852TA^",
+    "district": "灣仔"
+  },
+  {
+    "code": "852TC",
+    "address": "香港香港島灣仔區灣仔謝菲道182號地下 ^852TC^",
+    "district": "灣仔"
+  },
+  {
+    "code": "852TD",
+    "address": "銅鑼灣希雲街順豐站",
+    "district": "銅鑼灣"
+  },
+  {
+    "code": "852TB",
+    "address": "黃竹坑益年工廈順豐站",
+    "district": "黃竹坑"
+  },
+  {
+    "code": "852TE",
+    "address": "香港香港島南區黃竹坑黃竹坑道28號保濟工業大廈地下A室 ^852TE^",
+    "district": "黃竹坑"
+  },
+  {
+    "code": "852TAL",
+    "address": "香港仔富嘉工廈順豐站",
+    "district": "香港仔"
+  },
+  {
+    "code": "852TBL",
+    "address": "香港香港島南區薄扶林華富道18號華富（一）邨華安樓119號舖 ^852TBL^",
+    "district": "香港仔"
+  },
+  {
+    "code": "852TCL",
+    "address": "鴨脷洲利是大廈順豐站",
+    "district": "鴨脷洲"
+  },
+  {
+    "code": "852Z601",
+    "address": "香港香港島南區鴨脷洲海怡路12A號海怡西商場209D舖 ^852Z601^",
+    "district": "鴨脷洲"
+  },
+  {
+    "code": "852J",
+    "address": "新蒲崗福和工廈順豐站",
+    "district": "新蒲崗"
+  },
+  {
+    "code": "852HAL",
+    "address": "黃大仙豪苑順豐站",
+    "district": "黃大仙"
+  },
+  {
+    "code": "852HCL",
+    "address": "香港九龍黃大仙區黃大仙竹園路15號竹園南邨竹園廣場2樓S215A舖 ^852HCL^",
+    "district": "黃大仙"
+  },
+  {
+    "code": "852Z402",
+    "address": "慈雲山中心順豐站",
+    "district": "慈雲山"
+  },
+  {
+    "code": "852EA",
+    "address": "佐敦廟街順豐站",
+    "district": "佐敦"
+  },
+  {
+    "code": "852BB",
+    "address": "油麻地金華大廈順豐站",
+    "district": "油麻地"
+  },
+  {
+    "code": "852BA",
+    "address": "太子汝洲街順豐站",
+    "district": "太子"
+  },
+  {
+    "code": "852BF",
+    "address": "香港九龍油尖旺區太子基隆街19號地下 ^852BF^",
+    "district": "太子"
+  },
+  {
+    "code": "852BDL",
+    "address": "香港九龍油尖旺區太子大南街24, 24A及26號地下A舖 ^852BDL^",
+    "district": "太子"
+  },
+  {
+    "code": "852BD",
+    "address": "旺角福全街順豐站",
+    "district": "旺角"
+  },
+  {
+    "code": "852BE",
+    "address": "香港九龍油尖旺區旺角黑布街15號地舖 ^852BE^",
+    "district": "旺角"
+  },
+  {
+    "code": "852BAL",
+    "address": "香港九龍油尖旺區旺角海泓道富榮花園2期地下38號舖 ^852BAL^",
+    "district": "旺角"
+  },
+  {
+    "code": "852GLPM",
+    "address": "香港九龍油尖旺區旺角登打士街56號家樂坊（柏裕）16樓1626室 ^852GLPM^",
+    "district": "旺角"
+  },
+  {
+    "code": "852E",
+    "address": "尖沙咀余仁生中心順豐站",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852EB",
+    "address": "香港九龍油尖旺區東部麽地道75號南洋中心UG層21&22室 ^852EB^",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852EE",
+    "address": "香港九龍油尖旺區尖沙咀漆咸圍10-12號意公寓地下商舖 ^852EE^",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852ED",
+    "address": "香港九龍油尖旺區尖沙咀廣東道28號力寶太陽廣場310室",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852Z251",
+    "address": "香港九龍油尖旺區尖沙咀廣東道3-27號海港城港威商場四樓（客戶服務中心內）（只提供寄件服務） ^852Z251^",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852Z252",
+    "address": "香港九龍油尖旺區尖沙咀香港西九龍站G層WEK G-5號舖 ^852Z252^",
+    "district": "尖沙咀"
+  },
+  {
+    "code": "852BFL",
+    "address": "大角咀中興樓順豐站",
+    "district": "大角咀"
+  },
+  {
+    "code": "852H",
+    "address": "九龍灣同力工業中心順豐站",
+    "district": "九龍灣"
+  },
+  {
+    "code": "852HB",
+    "address": "香港九龍觀塘區九龍灣常悅街20號環球工商大廈地下4A號舖 ^852HB^",
+    "district": "九龍灣"
+  },
+  {
+    "code": "852HC",
+    "address": "香港九龍觀塘區九龍灣宏泰道12號榮發工業大廈地下5號舖 ^852HC^",
+    "district": "九龍灣"
+  },
+  {
+    "code": "852C",
+    "address": "觀塘豐業大廈順豐站",
+    "district": "觀塘"
+  },
+  {
+    "code": "852CAB",
+    "address": "香港九龍觀塘區觀塘鴻圖道80號鴻圖工業大廈地下1號舖 ^852CAB^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852CAC",
+    "address": "香港九龍觀塘區觀塘巧明街112號友聯大廈地倉 ^852CAC^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852CH",
+    "address": "香港九龍觀塘區觀塘鴻圖道58號金凱工業大廈地下 ^852CH^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852HD",
+    "address": "香港九龍觀塘區觀塘偉業街103號振邦工業大廈地下 ^852HD^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852YMCM",
+    "address": "香港九龍觀塘區牛頭角牛頭角道300-302號裕民中心地下53號舖 ^852YMCM^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852Z151",
+    "address": "香港九龍觀塘區觀塘成業街6號泓富廣場7樓708室 ^852Z151^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852Z152",
+    "address": "香港九龍觀塘區秀茂坪寶達邨寶達商場P1樓108號^852Z152^",
+    "district": "觀塘"
+  },
+  {
+    "code": "852CAD",
+    "address": "油塘味千集團大廈順豐站",
+    "district": "油塘"
+  },
+  {
+    "code": "852AJL",
+    "address": "香港九龍觀塘區油塘大本型2樓229號舖 ^852AJL^",
+    "district": "油塘"
+  },
+  {
+    "code": "852ACL",
+    "address": "藍田匯景廣場順豐站",
+    "district": "藍田"
+  },
+  {
+    "code": "852CNL",
+    "address": "秀茂坪安達商場順豐站",
+    "district": "秀茂坪"
+  },
+  {
+    "code": "852HBL",
+    "address": "九龍灣得寶商場順豐站",
+    "district": "九龍灣"
+  },
+  {
+    "code": "852Z401",
+    "address": "香港九龍觀塘區九龍灣宏光道80號麗晶花園2樓211號舖^852Z401^",
+    "district": "九龍灣"
+  },
+  {
+    "code": "852Z403",
+    "address": "啟德零售館順豐站",
+    "district": "啟德"
+  },
+  {
+    "code": "852D",
+    "address": "荔枝角順昌工廈順豐站",
+    "district": "荔枝角"
+  },
+  {
+    "code": "852DB",
+    "address": "香港九龍深水埗區荔枝角永康街37號福源廣場地下A2舖 ^852DB^",
+    "district": "荔枝角"
+  },
+  {
+    "code": "852NC",
+    "address": "香港九龍深水埗區荔枝角青山道479-479A號麗昌工廠大廈地下3號舖 ^852NC^",
+    "district": "荔枝角"
+  },
+  {
+    "code": "852DCL",
+    "address": "香港九龍深水埗區荔枝角荔枝角道863號泓景台泓景匯地下2A舖 ^852DCL^",
+    "district": "荔枝角"
+  },
+  {
+    "code": "852DA",
+    "address": "長沙灣楊耀松順豐站",
+    "district": "長沙灣"
+  },
+  {
+    "code": "852WCLM",
+    "address": "石硤尾偉智里順豐站",
+    "district": "石硤尾"
+  },
+  {
+    "code": "852DDL",
+    "address": "深水埗青山道順豐站",
+    "district": "深水埗"
+  },
+  {
+    "code": "852Z201",
+    "address": "香港九龍深水埗區南昌站NAC 22-23號舖 （非入閘區）^852Z201^",
+    "district": "深水埗"
+  },
+  {
+    "code": "852K",
+    "address": "紅磡恆豐工廈順豐站",
+    "district": "紅磡"
+  },
+  {
+    "code": "852KEL",
+    "address": "香港九龍九龍城區紅磡黃埔花園12期地庫9A及9B號舖 ^852KEL^",
+    "district": "紅磡"
+  },
+  {
+    "code": "852Z253",
+    "address": "九龍城太子道西順豐站",
+    "district": "九龍城"
+  },
+  {
+    "code": "852KBL",
+    "address": "何文田愛民邨康民樓順豐站",
+    "district": "何文田"
+  },
+  {
+    "code": "852KDL",
+    "address": "土瓜灣興基豪園順豐站",
+    "district": "土瓜灣"
+  },
+  {
+    "code": "852KFL",
+    "address": "香港九龍九龍城區土瓜灣樂民新邨G座平台地下126號舖（連閣樓）^852KFL^",
+    "district": "土瓜灣"
+  },
+  {
+    "code": "852Z051",
+    "address": "九龍塘又一城順豐站",
+    "district": "九龍塘"
+  },
+  {
+    "code": "852L",
+    "address": "葵涌禎昌工廈順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852LA",
+    "address": "葵涌和豐工廈順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852LB",
+    "address": "葵涌鍾意恆勝中心順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852LC",
+    "address": "葵涌嘉慶中心順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852LAL",
+    "address": "葵涌恒景商場順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852LBL",
+    "address": "葵涌大隴街葵都大廈順豐站",
+    "district": "葵涌"
+  },
+  {
+    "code": "852DEL",
+    "address": "荔景邨明景樓順豐站",
+    "district": "荔景"
+  },
+  {
+    "code": "852GH",
+    "address": "青衣工業中心順豐站",
+    "district": "青衣"
+  },
+  {
+    "code": "852Z352",
+    "address": "青衣港鐵順豐站",
+    "district": "青衣"
+  },
+  {
+    "code": "852F",
+    "address": "沙田美高工廈順豐站",
+    "district": "火炭"
+  },
+  {
+    "code": "852FH",
+    "address": "華樂工業中心順豐站",
+    "district": "火炭"
+  },
+  {
+    "code": "852FB",
+    "address": "沙田新貿中心順豐站",
+    "district": "沙田"
+  },
+  {
+    "code": "852FE",
+    "address": "沙田工業中心順豐站",
+    "district": "沙田"
+  },
+  {
+    "code": "852FSL",
+    "address": "沙田第一城樂薈順豐站",
+    "district": "沙田"
+  },
+  {
+    "code": "852NAL",
+    "address": "沙田乙明邨明信樓順豐站",
+    "district": "沙田"
+  },
+  {
+    "code": "852NJL",
+    "address": "沙田瀝源邨華豐樓順豐站",
+    "district": "沙田"
+  },
+  {
+    "code": "852FEL",
+    "address": "大圍海福花園順豐站",
+    "district": "大圍"
+  },
+  {
+    "code": "852FVL",
+    "address": "大圍雲疊花園商場順豐站",
+    "district": "大圍"
+  },
+  {
+    "code": "852NBL",
+    "address": "大圍顯徑商場順豐站",
+    "district": "大圍"
+  },
+  {
+    "code": "852FDL",
+    "address": "馬鞍山新港城中心順豐站",
+    "district": "馬鞍山"
+  },
+  {
+    "code": "852FUL",
+    "address": "馬鞍山WeGoMall順豐站",
+    "district": "馬鞍山"
+  },
+  {
+    "code": "852G",
+    "address": "荃灣匯力工業中心順豐站",
+    "district": "荃灣"
+  },
+  {
+    "code": "852GA",
+    "address": "荃灣金銘聯合中心順豐站",
+    "district": "荃灣"
+  },
+  {
+    "code": "852Z355",
+    "address": "荃灣南豐中心順豐站",
+    "district": "荃灣"
+  },
+  {
+    "code": "852U",
+    "address": "屯門凱昌工廈順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852UC",
+    "address": "屯門永發工廈順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852UD",
+    "address": "屯門萬能閣順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852Z661",
+    "address": "屯門時代廣場順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852FFL",
+    "address": "屯門盈豐商場順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852FNL",
+    "address": "屯門富泰商場順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852UAL",
+    "address": "屯門美樂花園商場順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852TCSM",
+    "address": "屯門井財街順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852Z660",
+    "address": "屯門愛定商場順豐站",
+    "district": "屯門"
+  },
+  {
+    "code": "852UAA",
+    "address": "元朗麗新元朗中心順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852UAB",
+    "address": "元朗雄偉工廈順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852Z701",
+    "address": "元朗安景樓順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852FLL",
+    "address": "元朗同發大廈順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852Z662",
+    "address": "洪水橋德祥樓順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852UFL",
+    "address": "元朗好順利大廈順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852UGL",
+    "address": "元朗安泰樓順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852UHL",
+    "address": "元朗萬金中心順豐站",
+    "district": "元朗"
+  },
+  {
+    "code": "852FBL",
+    "address": "天水圍天瑞商場順豐站",
+    "district": "天水圍"
+  },
+  {
+    "code": "852UCL",
+    "address": "天水圍天澤商場順豐站",
+    "district": "天水圍"
+  },
+  {
+    "code": "852UJL",
+    "address": "天水圍天一商城順豐站",
+    "district": "天水圍"
+  },
+  {
+    "code": "852AA",
+    "address": "大埔同茂坊順豐站",
+    "district": "大埔"
+  },
+  {
+    "code": "852FCL",
+    "address": "大埔昌運中心順豐站",
+    "district": "大埔"
+  },
+  {
+    "code": "852NLL",
+    "address": "大埔富善商場順豐站",
+    "district": "大埔"
+  },
+  {
+    "code": "852FHL",
+    "address": "粉嶺祥華邨祥頌樓順豐站",
+    "district": "粉嶺"
+  },
+  {
+    "code": "852NFL",
+    "address": "粉嶺和泰街順豐站",
+    "district": "粉嶺"
+  },
+  {
+    "code": "852Z011",
+    "address": "粉嶺花都廣場順豐站",
+    "district": "粉嶺"
+  },
+  {
+    "code": "852Z010",
+    "address": "粉嶺皇后山邨順豐站",
+    "district": "粉嶺"
+  },
+  {
+    "code": "852FTL",
+    "address": "上水彩園邨彩珠樓順豐站",
+    "district": "上水"
+  },
+  {
+    "code": "852NDL",
+    "address": "上水符興街順豐站",
+    "district": "上水"
+  },
+  {
+    "code": "852AAL",
+    "address": "將軍澳茵怡花園順豐站",
+    "district": "將軍澳"
+  },
+  {
+    "code": "852ABL",
+    "address": "將軍澳寶盈花園商場順豐站",
+    "district": "將軍澳"
+  },
+  {
+    "code": "852CLL",
+    "address": "將軍澳尚德廣場順豐站",
+    "district": "將軍澳"
+  },
+  {
+    "code": "852HHUM",
+    "address": "坑口南豐廣場順豐站",
+    "district": "將軍澳"
+  },
+  {
+    "code": "852Z101",
+    "address": "將軍澳康城順豐站",
+    "district": "將軍澳"
+  },
+  {
+    "code": "852Z102",
+    "address": "調景嶺維景灣畔順豐站",
+    "district": "調景嶺"
+  },
+  {
+    "code": "852SKL",
+    "address": "西貢宜春街順豐站",
+    "district": "西貢"
+  },
+  {
+    "code": "852GBL",
+    "address": "東涌逸東商場順豐站",
+    "district": "東涌"
+  },
+  {
+    "code": "852Z351",
+    "address": "東涌東薈城順豐站",
+    "district": "東涌"
+  },
+  {
+    "code": "852QB",
+    "address": "赤鱲角機場順豐站",
+    "district": "赤鱲角"
+  }
+]
